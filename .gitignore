@@ -1,0 +1,13 @@
+wp-admin
+wp-includes
+*.htaccess
+*.php
+*.html
+wp-content/languages
+wp-content/themes
+wp-content/upgrade
+wp-content/uploads
+wp-content/plugins/contact-form-7
+wp-content/plugins/wordpress-seo
+!wp-content/plugins/prueba-api.php
+!wp-content/plugins/ayphu-api.php
